@@ -8,6 +8,7 @@ namespace testGit
     {
         static void Main(string[] args)
         {
+            adding some text
         }
     }
 }

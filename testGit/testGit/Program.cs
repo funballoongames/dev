@@ -8,7 +8,6 @@ namespace testGit
     {
         static void Main(string[] args)
         {
-            sdgsdg
         }
     }
 }
